@@ -178,7 +178,7 @@ NAME:KEERTHANA R
 REGISTER NO:212224040156
 
 
-
+```
 #include "main.h"
 #include "lcd.h"
 
@@ -283,7 +283,7 @@ void assert_failed(uint8_t *file, uint32_t line)
   
 }
 #endif 
-
+```
 
 
 
